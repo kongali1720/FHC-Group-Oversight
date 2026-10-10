@@ -1,42 +1,42 @@
 <p align="center">
-<img src="https://github.com/kongali1720/KongWallet-Payment-Gateway-API/blob/main/kop_surat.jpg" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/kongali1720/KongWallet-Payment-Gateway-API/main/kop_surat.jpg"
+    alt="FHC Group Oversight Banner"
+    width="100%"
+  />
 </p>
 
-<p align="center">
-
-<div align="center">
-
-<h3>
-Cyber Defense Architect • Security Engineer • Web3 Builder
-</h3>
-
+<h3 align="center">Cyber Defense Architect • Security Engineer • Web3 Builder</h3>
 
 <p align="center">
   <a href="https://famholdingcompany.com/index.html">
     <img
-      src="https://raw.githubusercontent.com/kongali1720/FHC-Group-Oversight/blob/main/logo_fam.jpeg" 
+      src="https://raw.githubusercontent.com/kongali1720/FHC-Group-Oversight/main/logo_fam.jpeg"
       alt="FAM Holding Company Logo"
-      width="180"
-    >
+      width="160"
+    />
   </a>
 </p>
 
+<h1 align="center">FHC Group Oversight</h1>
+
 <p align="center">
-  <strong>FHC Group Oversight • Private Equity Framework • Finance Operations • Strategic Expansion</strong>
+  <strong>Private Equity Framework • Finance Operations • Strategic Expansion</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Framework-Corporate_Governance-0A66C2?style=for-the-badge" alt="Corporate Governance">
-  <img src="https://img.shields.io/badge/Investment-Private_Equity-6A5ACD?style=for-the-badge" alt="Private Equity">
-  <img src="https://img.shields.io/badge/Finance-Group_Reporting-008272?style=for-the-badge" alt="Group Reporting">
-  <img src="https://img.shields.io/badge/Operations-Portfolio_Oversight-2E8B57?style=for-the-badge" alt="Portfolio Oversight">
+  <img src="https://img.shields.io/badge/Framework-Corporate_Governance-0A66C2?style=for-the-badge" alt="Corporate Governance" />
+  <img src="https://img.shields.io/badge/Investment-Private_Equity-6A5ACD?style=for-the-badge" alt="Private Equity" />
+  <img src="https://img.shields.io/badge/Finance-Group_Reporting-008272?style=for-the-badge" alt="Group Reporting" />
+  <img src="https://img.shields.io/badge/Operations-Portfolio_Oversight-2E8B57?style=for-the-badge" alt="Portfolio Oversight" />
 </p>
 
 <p align="center">
-  <a href="https://famholdingcompany.com/index.html">
-    <strong>🌐 Official Website — FAM Holding Company</strong>
-  </a>
+  <a href="https://famholdingcompany.com/index.html"><strong>🌐 Official Website — FAM Holding Company</strong></a>
 </p>
+
+---
+
 
 
 # FHC Group Oversight & Private Equity Framework
