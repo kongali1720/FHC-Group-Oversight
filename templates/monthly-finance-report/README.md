@@ -1,60 +1,73 @@
-# FHC Monthly Finance Report Template
+# Template Laporan Bulanan — Unit Usaha
 
-## Reporting Information
-- Business Unit:
-- Reporting Month:
-- Prepared By:
-- Reviewed By:
-- Submission Date:
+> Salin dokumen ini untuk setiap unit dan periode. Jangan isi data rahasia pada repository publik.
 
-## 1. Financial Summary
-- Total Revenue:
-- Cost of Sales:
-- Gross Profit:
-- Operating Expenses:
-- Net Profit / Loss:
+## A. Metadata
+- Unit:
+- Badan hukum:
+- Periode:
+- Mata uang:
+- Tanggal disiapkan:
+- Disiapkan oleh:
+- Ditinjau oleh:
+- Disetujui oleh:
+- Status / versi:
 
-## 2. Cash Flow
-- Opening Cash Balance:
-- Cash Inflows:
-- Cash Outflows:
-- Closing Cash Balance:
+## B. Ringkasan eksekutif
+- Kinerja utama:
+- Pencapaian:
+- Kendala:
+- Keputusan yang dibutuhkan dari FHC/manajemen:
 
-## 3. Budget vs Actual
-- Approved Budget:
-- Actual Expenditure:
-- Variance:
-- Explanation:
+## C. Laporan laba rugi
+| Pos | Bulan aktual | Anggaran | Selisih | Bulan sebelumnya | YTD aktual | Catatan |
+|---|---:|---:|---:|---:|---:|---|
+| Pendapatan | | | | | | |
+| Biaya langsung | | | | | | |
+| Laba kotor (bila relevan) | | | | | | |
+| Biaya operasional | | | | | | |
+| Laba/rugi | | | | | | |
 
-## 4. Receivables and Payables
-- Outstanding Receivables:
-- Overdue Receivables:
-- Outstanding Payables:
-- Overdue Payables:
+## D. Kas dan likuiditas
+| Pos | Nilai | Catatan / rekonsiliasi |
+|---|---:|---|
+| Saldo kas/bank awal | | |
+| Total penerimaan | | |
+| Total pembayaran | | |
+| Saldo kas/bank akhir menurut buku | | |
+| Saldo menurut statement | | |
+| Selisih belum selesai | | |
+| Proyeksi kebutuhan kas 30/60/90 hari | | |
 
-## 5. Operational Performance
-- Monthly Target:
-- Actual Performance:
-- KPI Status:
-- Explanation of Variance:
+## E. Piutang dan utang
+| Kategori | Belum jatuh tempo | 1–30 hari | 31–60 hari | 61–90 hari | >90 hari | Rencana tindakan |
+|---|---:|---:|---:|---:|---:|---|
+| Piutang usaha | | | | | | |
+| Utang usaha | | | | | | |
 
-## 6. Risks and Corrective Actions
-- Risk / Issue:
-- Potential Impact:
-- Corrective Action:
-- Responsible Owner:
-- Due Date:
+## F. Anggaran vs realisasi
+| Akun / aktivitas | Anggaran | Realisasi | Selisih | Penjelasan | Tindakan | Pemilik | Tenggat |
+|---|---:|---:|---:|---|---|---|---|
 
-## 7. Supporting Documents
-- General Ledger Reference:
-- Bank Reconciliation Reference:
-- Invoice / Receipt References:
+## G. KPI operasional
+| KPI | Definisi | Target | Aktual | Status | Penjelasan / tindakan |
+|---|---|---:|---:|---|---|
 
-## 8. Certification
-Prepared by:
-Reviewed by:
-Approved by:
+## H. Risiko, kontrol, dan kepatuhan
+| Risiko/isu | Dampak | Kemungkinan | Kontrol saat ini | Mitigasi | Pemilik | Tenggat | Status |
+|---|---|---|---|---|---|---|---|
 
-Note: All amounts must identify the currency and reporting period.
-Supporting evidence must be retained in an access-controlled location.
-This template does not replace statutory accounting or audit requirements.
+## I. Transaksi antarperusahaan
+| Unit lawan | Jenis transaksi | Referensi | Nilai/mata uang | Saldo menurut unit | Saldo pihak lawan | Selisih/tindakan |
+|---|---|---|---:|---:|---:|---|
+
+## J. Keputusan dan tindakan manajemen
+| ID | Keputusan/tindakan | Pemilik | Tenggat | Status | Bukti penyelesaian |
+|---|---|---|---|---|---|
+
+## K. Sertifikasi unit
+Saya menyatakan laporan ini disusun dari catatan yang tersedia, direkonsiliasi sejauh dipersyaratkan, dan seluruh keterbatasan data serta pengecualian telah diungkapkan.
+
+Nama/jabatan:  
+Tanggal:  
+Persetujuan/rujukan persetujuan:
