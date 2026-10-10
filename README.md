@@ -10,6 +10,17 @@
 Cyber Defense Architect • Security Engineer • Web3 Builder
 </h3>
 
+
+<p align="center">
+  <a href="https://famholdingcompany.com/index.html">
+    <img
+      src="https://raw.githubusercontent.com/telkomsel5g4g3g-crypto/fam-holding-company-web/main/logo_fam.jpeg"
+      alt="FAM Holding Company Logo"
+      width="180"
+    >
+  </a>
+</p>
+
 <p align="center">
   <strong>FHC Group Oversight • Private Equity Framework • Finance Operations • Strategic Expansion</strong>
 </p>
@@ -22,13 +33,11 @@ Cyber Defense Architect • Security Engineer • Web3 Builder
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Planning_%26_Design-orange?style=flat-square" alt="Planning and Design">
-  <img src="https://img.shields.io/badge/Roadmap-90_Days-blue?style=flat-square" alt="90 Day Roadmap">
-  <img src="https://img.shields.io/badge/Documentation-English-555?style=flat-square" alt="English Documentation">
-  <img src="https://img.shields.io/badge/Platform-Windows_%7C_WSL-0078D4?style=flat-square&logo=windows" alt="Windows and WSL">
+  <a href="https://famholdingcompany.com/index.html">
+    <strong>🌐 Official Website — FAM Holding Company</strong>
+  </a>
 </p>
 
-</div>
 
 # FHC Group Oversight & Private Equity Framework
 
