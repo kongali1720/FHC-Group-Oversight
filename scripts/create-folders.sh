@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT="${1:-FHC}"
+
+mkdir -p "$ROOT"/{00_GROUP_GOVERNANCE/{Board_Resolutions,Organization_Structure,Delegation_of_Authority,Group_Policies,Risk_Register},01_PRIVATE_EQUITY/{01_Investor_Register,02_KYC_And_Due_Diligence,03_Source_Of_Funds,04_Investment_Proposals,05_Valuation_And_Financial_Models,06_Investment_Committee,07_Investment_Agreements,08_Capital_Receipts_And_Deployment,09_Portfolio_Monitoring,10_Returns_And_Distributions,11_Exit_And_Closing},02_FINANCE_DIVISION/{01_Budget_And_Forecast,02_Treasury_And_Cashflow,03_Bank_Statements_And_Reconciliation,04_Accounts_Payable,05_Accounts_Receivable,06_General_Ledger,07_Tax_And_Statutory_Reporting,08_Fixed_Assets,09_Intercompany_Transactions,10_Financial_Statements,11_Group_Consolidation,12_Investor_Reporting,13_Audit_And_Internal_Control},03_BUSINESS_UNITS/{DA-B,DA-RS,DA-MI,DA-Food,HGA,DA-Peternakan},04_TRADING/{01_Mandate_And_Risk_Limits,02_Counterparty_Due_Diligence,03_Contracts_And_Trade_Orders,04_Settlement_And_Reconciliation,05_Profit_Loss_And_Exposure,06_Compliance_And_Reports},05_MARKET_EXPANSION/{Indonesia_BEJ_BEI_To_Confirm,Europe,Asia},06_LEGAL_COMPLIANCE_RISK/{Corporate_Legal,Licensing_And_Regulatory,AML_KYC,Contracts,Risk_Assessments},07_IT_AND_DIGITAL_SYSTEMS/{ERP_Requirements,Dashboard_And_Reporting,Access_Control,Data_Backup_And_Recovery,System_Documentation},08_INTERNAL_AUDIT/{Audit_Plans,Audit_Findings,Corrective_Actions,Follow_Up},09_FHC_MANAGEMENT_REPORTS/{Monthly_Group_Reports,KPI_Dashboard,Cash_Position,Investment_Exposure,Management_Decisions},99_ARCHIVE/{Finance,Investment,Legal,Closed_Projects}}
+
+echo "FHC folder structure created at: $ROOT"
+echo "Review folder names and restrict access before placing any sensitive records."

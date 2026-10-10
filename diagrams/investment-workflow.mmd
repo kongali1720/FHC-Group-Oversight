@@ -1,0 +1,14 @@
+flowchart TD
+    A["Prospective Investor"] --> B["KYC / Beneficial Owner / Source-of-Funds Review"]
+    B --> C["Legal and Compliance Assessment"]
+    C --> D["Due Diligence, Valuation and Risk Review"]
+    D --> E["Authorized Investment Approval"]
+    E --> F{"Approved?"}
+    F -->|No| G["Revise or Reject Proposal"]
+    G --> D
+    F -->|Yes| H["Execute Agreement"]
+    H --> I["Verify Funding Conditions"]
+    I --> J["Receive Funds in Contracting Entity Account"]
+    J --> K["Finance Reconciliation and Accounting"]
+    K --> L["Approved Capital Deployment"]
+    L --> M["Portfolio Monitoring and Reporting"]

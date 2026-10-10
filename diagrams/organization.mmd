@@ -1,0 +1,21 @@
+flowchart TB
+    FHC["FHC — Group Oversight"]
+    PE["Private Equity & Investment"]
+    FIN["Finance Division"]
+    LEGAL["Legal, Compliance & Risk"]
+    IT["IT & Digital Systems"]
+    AUDIT["Internal Audit / Independent Control"]
+
+    FHC --> PE
+    FHC --> FIN
+    FHC --> LEGAL
+    FHC --> IT
+    FHC --> AUDIT
+
+    FHC --> DB["DA-B"]
+    FHC --> RS["DA-RS"]
+    FHC --> MI["DA-MI"]
+    FHC --> FOOD["DA-Food"]
+    FHC --> HGA["HGA"]
+    FHC --> FARM["Livestock Unit — Name to Confirm"]
+    PE --> TRADING["Trading Business"]
