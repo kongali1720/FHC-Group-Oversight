@@ -13,7 +13,7 @@
     <img
       src="https://raw.githubusercontent.com/kongali1720/FHC-Group-Oversight/main/logo_fam.jpeg"
       alt="FAM Holding Company Logo"
-      width="160"
+      width="180"
     />
   </a>
 </p>
@@ -32,15 +32,12 @@
 </p>
 
 <p align="center">
-  <a href="https://famholdingcompany.com/index.html"><strong>🌐 Official Website — FAM Holding Company</strong></a>
+  <a href="https://famholdingcompany.com/index.html"><strong>Official Website — FAM Holding Company</strong></a>
 </p>
 
 ---
 
-
-
 # FHC Group Oversight & Private Equity Framework
-
 **Repository description:** A governance and operating framework for FAM Holding Company (FHC), covering group oversight, external-investor private equity workflows, finance administration, business-unit reporting, trading controls, IT enablement, market expansion, and a 90-day implementation roadmap.
 
 > **Status:** Proposed operating framework. This repository documents a target-state design; it does not assert that any proposed department, investment vehicle, committee, licence, legal entity, funding commitment, or transaction is already established or approved.

@@ -9,13 +9,20 @@
 secrets/
 credentials/
 
-# Sensitive or operational records
+# Sensitive company and operational records
 private/
 confidential/
+confidential-data/
+restricted-data/
 investor-data/
+investor-records/
 kyc/
+kyc-records/
 bank-statements/
+bank-records/
 contracts-private/
+contracts-confidential/
+payroll/
 *.sqlite
 *.db
 
@@ -39,18 +46,3 @@ coverage/
 
 # Temporary archives
 *.zip
-
-# Sensitive company records
-private/
-confidential/
-investor-records/
-bank-records/
-kyc-records/
-contracts-confidential/
-
-# Local environment
-.env
-.env.*
-!.env.example
-__pycache__/
-*.py[cod]
