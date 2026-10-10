@@ -36,3 +36,21 @@ node_modules/
 dist/
 build/
 coverage/
+
+# Temporary archives
+*.zip
+
+# Sensitive company records
+private/
+confidential/
+investor-records/
+bank-records/
+kyc-records/
+contracts-confidential/
+
+# Local environment
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
