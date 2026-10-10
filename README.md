@@ -14,7 +14,7 @@ Cyber Defense Architect • Security Engineer • Web3 Builder
 <p align="center">
   <a href="https://famholdingcompany.com/index.html">
     <img
-      src="https://raw.githubusercontent.com/telkomsel5g4g3g-crypto/fam-holding-company-web/main/logo_fam.jpeg"
+      src="https://raw.githubusercontent.com/kongali1720/FHC-Group-Oversight/blob/main/logo_fam.jpeg" 
       alt="FAM Holding Company Logo"
       width="180"
     >
