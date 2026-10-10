@@ -422,3 +422,28 @@ This framework is for planning, governance design, and internal process developm
 <p align="center">
   <sub>Designed as a governance and operating blueprint for FHC — FAM Holding Company.</sub>
 </p>
+
+---
+
+
+# ☕ Support the Project
+
+If this research has helped your work in:
+
+- Financial infrastructure
+- Cybersecurity
+- FinTech
+- Blockchain
+- Gold-market research
+- Digital assets
+- Open-source development
+
+consider supporting continued development.
+
+<p align="center">
+  <a href="https://www.paypal.com/paypalme/bungtempong99">
+    <img src="https://img.shields.io/badge/☕-Support%20Development-FFDD00?style=for-the-badge&logo=paypal&logoColor=000000" alt="Support Development">
+  </a>
+</p>
+
+---
